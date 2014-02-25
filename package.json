@@ -15,7 +15,7 @@
     "nurbs"
   ],
   "dependencies": {
-    "labor": "*",
+    "labor": "git://github.com/pboyer/labor.js.git#340bd006eaac51ca505ae2144cd8bebb2f4a4437",
     "binomial": "*",
     "numeric": "1.2.6"
   },
